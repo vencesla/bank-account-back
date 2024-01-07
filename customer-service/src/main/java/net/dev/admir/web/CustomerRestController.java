@@ -14,7 +14,7 @@ import java.util.List;
 @RequestMapping("/api")
 public class CustomerRestController {
     @Autowired
-    private CustomerRepository customerRepository;
+    private final CustomerRepository customerRepository;
 
     public CustomerRestController(CustomerRepository customerRepository) {
         this.customerRepository = customerRepository;

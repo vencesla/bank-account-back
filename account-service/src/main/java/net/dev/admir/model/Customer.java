@@ -1,5 +1,6 @@
 package net.dev.admir.model;
 
+import jakarta.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
 
