@@ -22,6 +22,7 @@ git push -uf origin main
 
 ## Instructions for config repo
 1- Créer le dossier config-repo sur la racine de votre projet
+
 2- faire un git clone : git@github.com:vencesla/bank-account-config-repo.git dans le dosier config-repo
 
 ## Integrate with your tools
